@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414385894053",
+    "project_id": "internet-speed-test-e9f64",
+    "storage_bucket": "internet-speed-test-e9f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414385894053:android:318799571013fe2cf8934c",
+        "android_client_info": {
+          "package_name": "com.dharani.internetspeedtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414385894053-3p8kkpc3q9fh1knvset0cg1s7opthdif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH3QYNz1IsgMEyShFqOH6NwlrMb2w8P6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414385894053-3p8kkpc3q9fh1knvset0cg1s7opthdif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Internet Speed Test</string>
+    <string name="app_icon">App Icon</string>
+    <string name="start">Start speed test</string>
+    <string name="connected">Connected</string>
+    <string name="download_speed">Download Speed</string>
+    <string name="upload_speed">Upload Speed</string>
+    <string name="not_connected">Not connected</string>
+    <string name="calculating_internet_speed">Calculating Internet Speed</string>
+    <string name="view_recent_history">View recent history</string>
+    <string name="internet_connectivity_status">Internet connectivity Status</string>
+    <string name="mbps">Mbps</string>
+    <string name="calculated">Calculated</string>
+    <string name="recent_network_speed_information_tested_in_this_phone">Recent Network speed information tested in this phone</string>
+    <string name="device_id">Device ID</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="timestamp">TimeStamp</string>
+</resources>
